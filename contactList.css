@@ -1,0 +1,125 @@
+.main1{
+	border-radius: 40px;
+	background: black;
+	padding-top:1%;
+	padding-bottom: 1%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	height: auto;
+	width: 20%;
+	display: block;
+}
+.main2{
+	border-radius: 40px;
+	background: black;
+	padding-top:1%;
+	padding-bottom: 1%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	height: auto;
+	width: 20%;
+	display: block;
+}
+.frame{
+	margin:1%;
+	background: white;
+	height: auto;
+	width: 98%;
+	border-radius: 40px;;
+}
+
+.contacts{
+	text-align: center;
+	background: #03a310;
+	margin-bottom: 1px;
+	color: white;
+}
+.heading{
+	background: #a204f7;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	padding:5px; 
+	height: 30px;
+	font-weight: bold;
+	border-radius: 40px 40px 0px 0px;
+}
+.number{
+	float: left;
+	font-size:17px;
+	margin-left: 50px;
+	color:lightgrey;
+}
+.name{
+	float: left;
+	margin-left: 50px;
+}
+.input input{
+	margin-top: 20px;
+	margin-bottom: top;
+	width: 99%;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+}
+.key-ok{
+	background: lightgrey;
+	text-align: center;
+	height:auto;
+}
+.all-key{
+	width: 100%;
+	text-align: center;
+	border-radius: 0px 0px 20px 20px;
+	border: none;
+
+}
+.all-key tr td a{
+	text-decoration: none;
+	color: black;
+}
+.display{
+	padding: 0px;
+}
+.contacts td:nth-of-type(1):hover{
+	background: #048c00;
+}
+#key-star{
+	border-bottom-left-radius: 30px;
+}
+#key-hash{
+	border-bottom-right-radius: 30px;
+}
+.ok{
+	height: 50px;
+	width: 50px;
+	border-radius: 25px;
+	background: green;
+	margin: auto;
+	font-size: 10px;
+	display: inline-block;
+	margin-right: 20%;
+}
+.cancel{
+	height: 50px;
+	width: 50px;
+	border-radius: 25px;
+	background: red;
+	margin: auto;
+	text-align: center;
+	font-size: 10px;
+	display: inline-block;
+	margin-left: 20%;
+}
+.ok img{
+	margin: auto;
+	margin-top: 10px;
+}
+.cancel img{
+	margin: auto;
+	margin-top: 10px;
+}
+.call-img{
+	height: 340px;
+	padding-top: 50px;
+}
